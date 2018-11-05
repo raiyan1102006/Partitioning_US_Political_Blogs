@@ -19,4 +19,4 @@ The Spectral Modularity Maximization algorithm partitions the Republican and Dem
 <img src="figures/giant.jpg" alt="drawing" width="800"/>
 
 ## Reference
-[1] Kolaczyk, E.D. and Csárdi, G., 2014. *Statistical analysis of network data with R*(Vol. 65). New York: Springer.
+[1] Kolaczyk, E.D. and Csárdi, G., 2014. *Statistical analysis of network data with R* (Vol. 65). New York: Springer.
