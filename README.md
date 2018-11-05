@@ -10,7 +10,8 @@ Data on the 2004 US Election’s political blogosphere was compiled by L. Adamic
 ## Implementation
 
 ## Installation and Usage
-The scripts do not use any library beyond the default installations on MATLAB. Please run the main_.m script from the MATLAB interface, which will construct the desired plots.
+The scripts do not use any library beyond the default installations on MATLAB. Please run the **main_.m** script from the MATLAB interface, which will construct the desired plots.
 
 ## Outputs
+The script partitions the Republican and Democrat blogger communities with an accuracy of 88.73%. The network has a giant component with the two communities visually apparent, as can be seen from the plot below. Since there are a lot of small components, the graph is disconnected, making it amenable to bisection---the reason why the relaxed ratio-cut minimization problem achieves an accuracy of only 53.09%.
 <img src="figures/giant.jpg" alt="drawing" width="800"/>
