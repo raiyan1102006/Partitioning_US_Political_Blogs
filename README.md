@@ -13,4 +13,4 @@ Data on the 2004 US Election’s political blogosphere was compiled by L. Adamic
 The scripts do not use any library beyond the default installations on MATLAB. Please run the main_.m script from the MATLAB interface, which will construct the desired plots.
 
 ## Outputs
-<img src="figures/giant.jpg" alt="drawing" width="600"/>
+<img src="figures/giant.jpg" alt="drawing" width="800"/>
